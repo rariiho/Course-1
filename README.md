@@ -1,2 +1,2 @@
-# Course-1.github.io
+# rariiho.github.io
 Course 1 repo
